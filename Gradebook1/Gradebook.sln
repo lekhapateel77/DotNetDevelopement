@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gradebook", "Gradebook.csproj", "{70465E19-CB47-4A92-B5EC-DBE0D6B5C997}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F2C766AC-46C2-48B0-9671-D91E18409122}"
+	ProjectSection(SolutionItems) = preProject
+		GradeBook.cs = GradeBook.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gradebook.Tests", "..\GradebookTest\Gradebook.Tests.csproj", "{1BFC745D-1565-4C1B-B0FA-7BA1D91C1606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70465E19-CB47-4A92-B5EC-DBE0D6B5C997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70465E19-CB47-4A92-B5EC-DBE0D6B5C997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70465E19-CB47-4A92-B5EC-DBE0D6B5C997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70465E19-CB47-4A92-B5EC-DBE0D6B5C997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BFC745D-1565-4C1B-B0FA-7BA1D91C1606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFC745D-1565-4C1B-B0FA-7BA1D91C1606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFC745D-1565-4C1B-B0FA-7BA1D91C1606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFC745D-1565-4C1B-B0FA-7BA1D91C1606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1BFC745D-1565-4C1B-B0FA-7BA1D91C1606} = {F2C766AC-46C2-48B0-9671-D91E18409122}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD82637-24EF-40B1-B246-4265CC4E153C}
+	EndGlobalSection
+EndGlobal

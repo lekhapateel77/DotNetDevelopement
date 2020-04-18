@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\GenericsLearning\bin\Debug\netcoreapp3.1\GenericsLearning.exe
+C:\Users\User\source\repos\GenericsLearning\bin\Debug\netcoreapp3.1\GenericsLearning.deps.json
+C:\Users\User\source\repos\GenericsLearning\bin\Debug\netcoreapp3.1\GenericsLearning.runtimeconfig.json
+C:\Users\User\source\repos\GenericsLearning\bin\Debug\netcoreapp3.1\GenericsLearning.runtimeconfig.dev.json
+C:\Users\User\source\repos\GenericsLearning\bin\Debug\netcoreapp3.1\GenericsLearning.dll
+C:\Users\User\source\repos\GenericsLearning\bin\Debug\netcoreapp3.1\GenericsLearning.pdb
+C:\Users\User\source\repos\GenericsLearning\obj\Debug\netcoreapp3.1\GenericsLearning.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GenericsLearning\obj\Debug\netcoreapp3.1\GenericsLearning.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GenericsLearning\obj\Debug\netcoreapp3.1\GenericsLearning.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GenericsLearning\obj\Debug\netcoreapp3.1\GenericsLearning.AssemblyInfo.cs
+C:\Users\User\source\repos\GenericsLearning\obj\Debug\netcoreapp3.1\GenericsLearning.dll
+C:\Users\User\source\repos\GenericsLearning\obj\Debug\netcoreapp3.1\GenericsLearning.pdb
+C:\Users\User\source\repos\GenericsLearning\obj\Debug\netcoreapp3.1\GenericsLearning.genruntimeconfig.cache

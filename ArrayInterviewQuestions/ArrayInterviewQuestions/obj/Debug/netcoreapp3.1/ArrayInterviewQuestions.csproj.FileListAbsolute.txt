@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\bin\Debug\netcoreapp3.1\ArrayInterviewQuestions.exe
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\bin\Debug\netcoreapp3.1\ArrayInterviewQuestions.deps.json
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\bin\Debug\netcoreapp3.1\ArrayInterviewQuestions.runtimeconfig.json
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\bin\Debug\netcoreapp3.1\ArrayInterviewQuestions.runtimeconfig.dev.json
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\bin\Debug\netcoreapp3.1\ArrayInterviewQuestions.dll
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\bin\Debug\netcoreapp3.1\ArrayInterviewQuestions.pdb
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\obj\Debug\netcoreapp3.1\ArrayInterviewQuestions.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\obj\Debug\netcoreapp3.1\ArrayInterviewQuestions.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\obj\Debug\netcoreapp3.1\ArrayInterviewQuestions.AssemblyInfo.cs
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\obj\Debug\netcoreapp3.1\ArrayInterviewQuestions.dll
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\obj\Debug\netcoreapp3.1\ArrayInterviewQuestions.pdb
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\obj\Debug\netcoreapp3.1\ArrayInterviewQuestions.genruntimeconfig.cache
+C:\Users\User\source\repos\ArrayInterviewQuestions\ArrayInterviewQuestions\obj\Debug\netcoreapp3.1\ArrayInterviewQuestions.csprojAssemblyReference.cache
